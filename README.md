@@ -1,6 +1,18 @@
 
 # Hey, I'm ulikw 👋
 
+
+### Contributions
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ulikw/ulikw/main/profile-3d-contrib/profile-night-rainbow.svg"
+    width="100%"
+    alt="3D Contribution Graph"
+  />
+</p>
+
+
 Developer · Learning, building, improving.
 
 ### About
