@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="lofi.gif" width="700" alt="Lo-fi" />
+  <img src="yo.gif" width="700" alt="Lo-fi" />
 </div>
