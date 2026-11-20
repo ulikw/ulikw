@@ -1,38 +1,10 @@
 
-# Hey, I'm ulikw 👋
-
-
-### Contributions
+### Activity
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/ulikw/ulikw/main/profile-3d-contrib/profile-night-rainbow.svg"
+    src="https://github-stats-livid-three.vercel.app/activity?user=ulikw&style=spark&palette=mono&theme=dark"
     width="100%"
-    alt="3D Contribution Graph"
+    alt="GitHub contribution activity"
   />
 </p>
-
-
-Developer · Learning, building, improving.
-
-### About
-
-I enjoy programming, exploring new technologies,
-and building useful things.
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql,git,github,vscode,idea&theme=dark" alt="Technologies" />
-</p>
-
-### GitHub Activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ulikw&show_icons=true&theme=github_dark&hide_border=true&hide_title=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulikw&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
-
----
-
-<sub>Always learning. Always building.</sub>
